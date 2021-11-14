@@ -1,16 +1,21 @@
-### lower tier
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hagi-3&show_icons=true&theme=dark)
-<!--
-**hagi-3/hagi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hagi-3&theme=dark&layout=compact)](https://github.com/hagi-3)
 
-Here are some ideas to get you started:
+![trophy](https://github-readme-stats.vercel.app/api?username=hagi-3&show_icons=true&theme=dark&count_private=true&line_height=40)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📚 Language / Framework :books:
+- PHP
+  - Cakephp
+  - Wordpress
+- C#
+  - ASP.NET
+- HTML / CSS / SASS / SCSS
+  - CSS / UI Framework (Bootstrap, UIKit, Bluma, Tailwind, Vuetify)
+- JavaScript
+  - express, jQuery, Vue.js, React.js
+- TypeScript
+- SQL
+- Mysql , Postgresql
+- Google Apps Script (GAS)
+- AWS
+  - EC2
